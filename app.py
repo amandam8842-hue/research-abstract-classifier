@@ -4,7 +4,7 @@ import pandas as pd
 import joblib
 
 st.set_page_config(page_title="Research Abstract Classifier", page_icon="📚")
-st.title("Research Abstract Classification")
+st.title("Research Article Classification")
 st.write("Predict whether an abstract is labelled Science, Business, or Social Science.")
 
 @st.cache_resource
