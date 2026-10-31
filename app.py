@@ -1,4 +1,4 @@
-```python
+
 import streamlit as st
 import pandas as pd
 import joblib
@@ -123,4 +123,4 @@ st.caption(
     "Educational research tool. Predictions reflect "
     "the quality and biases of the training labels."
 )
-```
+
